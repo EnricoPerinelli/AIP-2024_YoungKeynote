@@ -1,0 +1,25 @@
+[1] Config.pm:307> INFO - This is Biber 2.19
+[1] Config.pm:310> INFO - Logfile is 'AIP_2024_YoungKeynote.blg'
+[144] biber-MSWIN64:340> INFO - === 
+[221] Biber.pm:419> INFO - Reading 'AIP_2024_YoungKeynote.bcf'
+[503] Biber.pm:979> INFO - Found 73 citekeys in bib section 0
+[532] Biber.pm:4419> INFO - Processing section 0
+[553] Biber.pm:4610> INFO - Looking for bibtex file 'biblio.bib' for section 0
+[631] bibtex.pm:1713> INFO - LaTeX decoding ...
+[771] bibtex.pm:1519> INFO - Found BibTeX data source 'biblio.bib'
+[1602] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1602] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1602] Biber.pm:4239> INFO - Sorting list 'nyt/apasortcite//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[1602] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[1871] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[1871] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[1872] Biber.pm:4239> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[1872] Biber.pm:4245> INFO - No sort tailoring available for locale 'en-US'
+[1990] bbl.pm:660> INFO - Writing 'AIP_2024_YoungKeynote.bbl' with encoding 'UTF-8'
+[2135] bbl.pm:763> INFO - Output to AIP_2024_YoungKeynote.bbl
+[2136] Biber.pm:131> WARN - legacy year field 'in press' in entry 'woo2024' is not an integer - this will probably not sort properly.
+[2136] Biber.pm:131> WARN - legacy year field 'in press' in entry 'aguinis_theoryOPR' is not an integer - this will probably not sort properly.
+[2136] Biber.pm:131> WARN - legacy year field 'in press' in entry 'song_XAI' is not an integer - this will probably not sort properly.
+[2136] Biber.pm:131> WARN - legacy year field 'in press' in entry 'grand_inPressORM' is not an integer - this will probably not sort properly.
+[2136] Biber.pm:131> WARN - legacy year field 'in press' in entry 'vanDongen_inPress_PsychReview' is not an integer - this will probably not sort properly.
+[2136] Biber.pm:133> INFO - WARNINGS: 5

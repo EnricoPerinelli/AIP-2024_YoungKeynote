@@ -1,0 +1,4 @@
+\beamer@sectionintoc {1}{Intro}{3}{0}{1}
+\beamer@sectionintoc {2}{Theory-driven modeling in WOP}{14}{0}{2}
+\beamer@sectionintoc {3}{Data-driven modeling in WOP}{33}{0}{3}
+\beamer@sectionintoc {4}{Towards an integration}{44}{0}{4}
