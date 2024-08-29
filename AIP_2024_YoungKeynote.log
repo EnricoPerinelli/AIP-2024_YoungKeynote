@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.22)  29 AUG 2024 17:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.22)  29 AUG 2024 21:39
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1829,17 +1829,22 @@ ericonarticle.pdf>] [57
 
 
 ]
+<figs/qr-code_github.png, id=6322, 1087.06125pt x 1087.06125pt>
+File: figs/qr-code_github.png Graphic file (type png)
+<use figs/qr-code_github.png>
+Package pdftex.def Info: figs/qr-code_github.png  used on input line 667.
+(pdftex.def)             Requested size: 76.82246pt x 76.8153pt.
 File: figs/logoDIPSCO.png Graphic file (type png)
 <use figs/logoDIPSCO.png>
-Package pdftex.def Info: figs/logoDIPSCO.png  used on input line 659.
+Package pdftex.def Info: figs/logoDIPSCO.png  used on input line 667.
 (pdftex.def)             Requested size: 68.08241pt x 27.31631pt.
 File: figs/logoAIP.png Graphic file (type png)
 <use figs/logoAIP.png>
-Package pdftex.def Info: figs/logoAIP.png  used on input line 659.
+Package pdftex.def Info: figs/logoAIP.png  used on input line 667.
 (pdftex.def)             Requested size: 58.37573pt x 27.31631pt.
  [70
 
-]
+ <./figs/qr-code_github.png>]
 \tf@nav=\write7
 \openout7 = `AIP_2024_YoungKeynote.nav'.
 
@@ -1865,11 +1870,11 @@ Package logreq Info: Writing requests to 'AIP_2024_YoungKeynote.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 35081 strings out of 474542
- 718224 string characters out of 5739218
+ 35093 strings out of 474542
+ 718485 string characters out of 5739218
  1996978 words of memory out of 5000000
- 56479 multiletter control sequences out of 15000+600000
- 585498 words of font info for 120 fonts, out of 8000000 for 9000
+ 56489 multiletter control sequences out of 15000+600000
+ 585666 words of font info for 121 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  128i,19n,123p,804b,5050s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/Enrico Perinelli/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
@@ -1887,10 +1892,11 @@ c/amsfonts/cm/cmssi8.pfb><C:/Users/Enrico Perinelli/AppData/Local/Programs/MiKT
 eX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/Enrico Perinelli/AppData
 /Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/Enric
 o Perinelli/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.
-pfb>
-Output written on AIP_2024_YoungKeynote.pdf (70 pages, 4675562 bytes).
+pfb><C:/Users/Enrico Perinelli/AppData/Local/Programs/MiKTeX/fonts/type1/public
+/amsfonts/cm/cmtt8.pfb>
+Output written on AIP_2024_YoungKeynote.pdf (70 pages, 4714616 bytes).
 PDF statistics:
- 6487 PDF objects out of 7423 (max. 8388607)
- 228 named destinations out of 1000 (max. 500000)
- 186 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6496 PDF objects out of 7423 (max. 8388607)
+ 229 named destinations out of 1000 (max. 500000)
+ 191 words of extra memory for PDF output out of 10000 (max. 10000000)
 
