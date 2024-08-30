@@ -9,4 +9,4 @@ Main files:
 - The pdf of the presentation: [AIP_2024_YoungKeynote.pdf](https://github.com/EnricoPerinelli/AIP-2024_YoungKeynote/blob/master/AIP_2024_YoungKeynote.pdf)
 - The bibliography with all references in .bib format: [biblio.bib](https://github.com/EnricoPerinelli/AIP-2024_YoungKeynote/blob/master/biblio.bib)
 - The LaTeX source code: [AIP_2024_YoungKeynote.tex](https://github.com/EnricoPerinelli/AIP-2024_YoungKeynote/blob/master/AIP_2024_YoungKeynote.tex)
-- Figures in .png format are located in the figs folder, while `ALL_FIGURES.pptx` is a PowerPoint file containing screenshots and newly created figures. 
+- Figures in .png format are located in the `figs` folder, while `ALL_FIGURES.pptx` is a PowerPoint file containing screenshots and newly created figures. 

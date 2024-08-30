@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.22)  29 AUG 2024 21:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 24.1) (preloaded format=pdflatex 2024.2.22)  30 AUG 2024 18:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1462,22 +1462,22 @@ Overfull \vbox (1.9695pt too high) detected at line 66
 ] (AIP_2024_YoungKeynote.toc) [3
 
 ]
-LaTeX Font Info:    Trying to load font information for U+msa on input line 101
-.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 97.
+
 
 (C:\Users\Enrico Perinelli\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\ums
 a.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 101
-.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 97.
+
 
 (C:\Users\Enrico Perinelli\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\ums
 b.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
-ut line 101.
+ut line 97.
 
 (C:\Users\Enrico Perinelli\AppData\Local\Programs\MiKTeX\tex/latex/sansmathacce
 nt\ot1mathkerncmss.fd
@@ -1495,10 +1495,10 @@ thkerncmss.
 <figs/Landers_cover.png, id=781, 249.5724pt x 437.4744pt>
 File: figs/Landers_cover.png Graphic file (type png)
 <use figs/Landers_cover.png>
-Package pdftex.def Info: figs/Landers_cover.png  used on input line 131.
+Package pdftex.def Info: figs/Landers_cover.png  used on input line 127.
 (pdftex.def)             Requested size: 111.54745pt x 195.52658pt.
 
-Overfull \hbox (10.14124pt too wide) in paragraph at lines 131--131
+Overfull \hbox (10.14124pt too wide) in paragraph at lines 127--127
  [] 
  []
 
@@ -1510,10 +1510,10 @@ Overfull \hbox (10.14124pt too wide) in paragraph at lines 131--131
 <figs/Philosopical.png, id=999, 526.4299pt x 354.50337pt>
 File: figs/Philosopical.png Graphic file (type png)
 <use figs/Philosopical.png>
-Package pdftex.def Info: figs/Philosopical.png  used on input line 149.
+Package pdftex.def Info: figs/Philosopical.png  used on input line 145.
 (pdftex.def)             Requested size: 276.559pt x 186.24147pt.
 
-Overfull \vbox (15.09007pt too high) detected at line 149
+Overfull \vbox (15.09007pt too high) detected at line 145
  []
 
 [10
@@ -1527,7 +1527,7 @@ Overfull \vbox (15.09007pt too high) detected at line 149
 File: figs/wop_psychom_dataScience.png Graphic file (type png)
 <use figs/wop_psychom_dataScience.png>
 Package pdftex.def Info: figs/wop_psychom_dataScience.png  used on input line 1
-85.
+81.
 (pdftex.def)             Requested size: 276.559pt x 143.76175pt.
  [13
 
@@ -1536,32 +1536,32 @@ Package pdftex.def Info: figs/wop_psychom_dataScience.png  used on input line 1
 ]
 
 LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/b/it' instead on input line 201.
+(Font)              using `OT1/cmss/b/it' instead on input line 197.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/it' undefined
-(Font)              using `OT1/cmss/b/n' instead on input line 201.
+(Font)              using `OT1/cmss/b/n' instead on input line 197.
 
 LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <10> not available
-(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 201.
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 197.
 
 [15
 
 ]
 
 LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/b/it' instead on input line 213.
+(Font)              using `OT1/cmss/b/it' instead on input line 209.
 
 LaTeX Font Info:    Font shape `OT1/cmss/b/it' in size <10> not available
-(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 213.
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 209.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/b/it' instead on input line 213.
+(Font)              using `OT1/cmss/b/it' instead on input line 209.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/b/it' instead on input line 213.
+(Font)              using `OT1/cmss/b/it' instead on input line 209.
 
 [16
 
@@ -1569,7 +1569,7 @@ LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
 <figs/Aguinis_theoryOPR.png, id=1716, 637.49747pt x 517.30106pt>
 File: figs/Aguinis_theoryOPR.png Graphic file (type png)
 <use figs/Aguinis_theoryOPR.png>
-Package pdftex.def Info: figs/Aguinis_theoryOPR.png  used on input line 224.
+Package pdftex.def Info: figs/Aguinis_theoryOPR.png  used on input line 220.
 (pdftex.def)             Requested size: 230.46739pt x 187.00967pt.
  [17
 
@@ -1587,7 +1587,7 @@ Package pdftex.def Info: figs/Aguinis_theoryOPR.png  used on input line 224.
 <figs/Nesserl_moleenar_2016.png, id=2238, 419.92674pt x 401.66905pt>
 File: figs/Nesserl_moleenar_2016.png Graphic file (type png)
 <use figs/Nesserl_moleenar_2016.png>
-Package pdftex.def Info: figs/Nesserl_moleenar_2016.png  used on input line 288
+Package pdftex.def Info: figs/Nesserl_moleenar_2016.png  used on input line 284
 .
 (pdftex.def)             Requested size: 184.3758pt x 176.36105pt.
  [23
@@ -1596,7 +1596,7 @@ Package pdftex.def Info: figs/Nesserl_moleenar_2016.png  used on input line 288
 <figs/operaz_process1.png, id=2309, 698.1282pt x 281.853pt>
 File: figs/operaz_process1.png Graphic file (type png)
 <use figs/operaz_process1.png>
-Package pdftex.def Info: figs/operaz_process1.png  used on input line 288.
+Package pdftex.def Info: figs/operaz_process1.png  used on input line 284.
 (pdftex.def)             Requested size: 307.28987pt x 124.0587pt.
  [24
 
@@ -1604,7 +1604,7 @@ Package pdftex.def Info: figs/operaz_process1.png  used on input line 288.
 <figs/operaz_process2_uwes.png, id=2374, 707.7642pt x 320.397pt>
 File: figs/operaz_process2_uwes.png Graphic file (type png)
 <use figs/operaz_process2_uwes.png>
-Package pdftex.def Info: figs/operaz_process2_uwes.png  used on input line 288.
+Package pdftex.def Info: figs/operaz_process2_uwes.png  used on input line 284.
 
 (pdftex.def)             Requested size: 307.28987pt x 139.10756pt.
  [25
@@ -1613,21 +1613,21 @@ Package pdftex.def Info: figs/operaz_process2_uwes.png  used on input line 288.
 
 ]
 LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <10.95> not available
-(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 332.
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 328.
 
 LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <8> not available
-(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 332.
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 328.
 
 LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <6> not available
-(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 332.
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 328.
 
 <figs/zyphurSEM.png, id=2601, 722.7pt x 109.54611pt>
 File: figs/zyphurSEM.png Graphic file (type png)
 <use figs/zyphurSEM.png>
-Package pdftex.def Info: figs/zyphurSEM.png  used on input line 332.
+Package pdftex.def Info: figs/zyphurSEM.png  used on input line 328.
 (pdftex.def)             Requested size: 322.65529pt x 48.90749pt.
 
-Overfull \hbox (15.36542pt too wide) in paragraph at lines 332--332
+Overfull \hbox (15.36542pt too wide) in paragraph at lines 328--328
  [] 
  []
 
@@ -1637,10 +1637,10 @@ Overfull \hbox (15.36542pt too wide) in paragraph at lines 332--332
 
 ]
 LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <7> not available
-(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 368.
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 364.
 
 LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <5> not available
-(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 368.
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 364.
 
  [29
 
@@ -1658,7 +1658,7 @@ LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <5> not available
 <figs/BigData_AI.png, id=3337, 936.1374pt x 437.4744pt>
 File: figs/BigData_AI.png Graphic file (type png)
 <use figs/BigData_AI.png>
-Package pdftex.def Info: figs/BigData_AI.png  used on input line 423.
+Package pdftex.def Info: figs/BigData_AI.png  used on input line 418.
 (pdftex.def)             Requested size: 307.28987pt x 143.59932pt.
  [35
 
@@ -1666,7 +1666,7 @@ Package pdftex.def Info: figs/BigData_AI.png  used on input line 423.
 <figs/BigData_AI_LessKnown.png, id=3441, 1126.9302pt x 616.2222pt>
 File: figs/BigData_AI_LessKnown.png Graphic file (type png)
 <use figs/BigData_AI_LessKnown.png>
-Package pdftex.def Info: figs/BigData_AI_LessKnown.png  used on input line 433.
+Package pdftex.def Info: figs/BigData_AI_LessKnown.png  used on input line 428.
 
 (pdftex.def)             Requested size: 307.28987pt x 168.0277pt.
  [36
@@ -1681,7 +1681,7 @@ rlaced PNG might cause out of memory (use non-interlaced PNG to fix this)
 <figs/Leavitt_2021.png, id=3679, 588.04958pt x 541.64464pt>
 File: figs/Leavitt_2021.png Graphic file (type png)
 <use figs/Leavitt_2021.png>
-Package pdftex.def Info: figs/Leavitt_2021.png  used on input line 467.
+Package pdftex.def Info: figs/Leavitt_2021.png  used on input line 462.
 (pdftex.def)             Requested size: 184.3758pt x 169.82553pt.
  [38
 
@@ -1689,17 +1689,17 @@ Package pdftex.def Info: figs/Leavitt_2021.png  used on input line 467.
 <figs/Leavitt_2021_Fig1.png, id=3786, 645.10484pt x 541.64464pt>
 File: figs/Leavitt_2021_Fig1.png Graphic file (type png)
 <use figs/Leavitt_2021_Fig1.png>
-Package pdftex.def Info: figs/Leavitt_2021_Fig1.png  used on input line 479.
+Package pdftex.def Info: figs/Leavitt_2021_Fig1.png  used on input line 474.
 (pdftex.def)             Requested size: 230.46739pt x 193.50424pt.
 
-Overfull \vbox (10.35284pt too high) detected at line 479
+Overfull \vbox (10.35284pt too high) detected at line 474
  []
 
 [39
 
  <./figs/Leavitt_2021_Fig1.png>]
 LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <9> not available
-(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 496.
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 491.
 
  [40
 
@@ -1711,7 +1711,7 @@ LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <9> not available
 <figs/Marshall2024.png, id=4130, 1012.7436pt x 441.3288pt>
 File: figs/Marshall2024.png Graphic file (type png)
 <use figs/Marshall2024.png>
-Package pdftex.def Info: figs/Marshall2024.png  used on input line 516.
+Package pdftex.def Info: figs/Marshall2024.png  used on input line 511.
 (pdftex.def)             Requested size: 307.28987pt x 133.9081pt.
  [43
 
@@ -1723,20 +1723,20 @@ Package pdftex.def Info: figs/Marshall2024.png  used on input line 516.
 <figs/banks2018.png, id=4413, 724.22147pt x 352.98189pt>
 File: figs/banks2018.png Graphic file (type png)
 <use figs/banks2018.png>
-Package pdftex.def Info: figs/banks2018.png  used on input line 550.
+Package pdftex.def Info: figs/banks2018.png  used on input line 545.
 (pdftex.def)             Requested size: 256.84909pt x 125.18286pt.
 
-Overfull \hbox (21.90005pt too wide) in paragraph at lines 550--550
+Overfull \hbox (21.90005pt too wide) in paragraph at lines 545--545
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 550--550
+Underfull \hbox (badness 10000) in paragraph at lines 545--545
 
  []
 
 
-Overfull \vbox (15.28143pt too high) detected at line 550
+Overfull \vbox (15.28143pt too high) detected at line 545
  []
 
 [46
@@ -1747,7 +1747,7 @@ Overfull \vbox (15.28143pt too high) detected at line 550
 <figs/shap_PsyCap.png, id=4632, 435.14148pt x 535.55873pt>
 File: figs/shap_PsyCap.png Graphic file (type png)
 <use figs/shap_PsyCap.png>
-Package pdftex.def Info: figs/shap_PsyCap.png  used on input line 586.
+Package pdftex.def Info: figs/shap_PsyCap.png  used on input line 581.
 (pdftex.def)             Requested size: 122.9164pt x 151.27927pt.
  [48
 
@@ -1756,31 +1756,31 @@ Package pdftex.def Info: figs/shap_PsyCap.png  used on input line 586.
 ] [50
 
 ]
-Overfull \vbox (0.3486pt too high) detected at line 622
+Overfull \vbox (0.3486pt too high) detected at line 617
  []
 
 [51
 
 ]
-Overfull \vbox (0.3486pt too high) detected at line 622
+Overfull \vbox (0.3486pt too high) detected at line 617
  []
 
 [52
 
 ]
-Overfull \vbox (0.3486pt too high) detected at line 622
+Overfull \vbox (0.3486pt too high) detected at line 617
  []
 
 [53
 
 ]
-Overfull \vbox (0.3486pt too high) detected at line 622
+Overfull \vbox (0.3486pt too high) detected at line 617
  []
 
 [54
 
 ]
-Overfull \vbox (0.3486pt too high) detected at line 622
+Overfull \vbox (0.3486pt too high) detected at line 617
  []
 
 [55
@@ -1832,15 +1832,15 @@ ericonarticle.pdf>] [57
 <figs/qr-code_github.png, id=6322, 1087.06125pt x 1087.06125pt>
 File: figs/qr-code_github.png Graphic file (type png)
 <use figs/qr-code_github.png>
-Package pdftex.def Info: figs/qr-code_github.png  used on input line 667.
+Package pdftex.def Info: figs/qr-code_github.png  used on input line 658.
 (pdftex.def)             Requested size: 76.82246pt x 76.8153pt.
 File: figs/logoDIPSCO.png Graphic file (type png)
 <use figs/logoDIPSCO.png>
-Package pdftex.def Info: figs/logoDIPSCO.png  used on input line 667.
+Package pdftex.def Info: figs/logoDIPSCO.png  used on input line 658.
 (pdftex.def)             Requested size: 68.08241pt x 27.31631pt.
 File: figs/logoAIP.png Graphic file (type png)
 <use figs/logoAIP.png>
-Package pdftex.def Info: figs/logoAIP.png  used on input line 667.
+Package pdftex.def Info: figs/logoAIP.png  used on input line 658.
 (pdftex.def)             Requested size: 58.37573pt x 27.31631pt.
  [70
 
